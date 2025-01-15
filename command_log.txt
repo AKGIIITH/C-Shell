@@ -1,0 +1,16 @@
+cat < pipe.txt | head -n 4 | sort |tail -n 1 > sorted output.txt
+iMAN man
+iMan man
+iman man
+activities
+bg 167743
+proclore 167743
+fg 167743
+sleep 500
+proclore 167196
+fg 167196
+proclore 167196
+activities
+sleep 50
+sleep 20
+activities
